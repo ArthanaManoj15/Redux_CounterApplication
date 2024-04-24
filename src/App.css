@@ -1,0 +1,7 @@
+body{
+  /* background-color: black; */
+  background-image: linear-gradient(to bottom right, rgba(117, 233, 239, 0.737),rgb(113, 3, 113));
+}
+.heading{
+  text-shadow: 2px 2px black;
+}
